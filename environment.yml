@@ -3,14 +3,10 @@ dependencies:
   - pip:    
     - ipykernel    
     - pandas   
-    - sklearn
     - numpy
+    - sklearn
     - tensorflow
     - tflearn
-    - LabelEncoder
-    - OneHotEncoder
-    - train_test_split
-    - StandardScaler
-    - tree
-    - classification_report
+    - scipy
+
 
