@@ -7,6 +7,10 @@ dependencies:
     - numpy
     - tensorflow
     - tflearn
-    - sklearn.preprocessing
-    - sklearn.model_selection
-    - sklearn.metrics
+    - LabelEncoder
+    - OneHotEncoder
+    - train_test_split
+    - StandardScaler
+    - tree
+    - classification_report
+
