@@ -1,0 +1,9 @@
+dependencies:  
+  - python=3  
+  - pip:    
+    - ipykernel    
+    - pandas   
+    - sklearn
+    - numpy
+    - tensorflow
+    - tflearn
